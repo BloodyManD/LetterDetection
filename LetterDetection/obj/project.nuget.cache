@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k6v4ZzUjX3o9zCVbz5CECqFciUWewjTbejceTdvOMBuDlkuhRwGICEeptU/t8rmn48RN9YzgDDe1ISqinTChww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ngavr\\RiderProjects\\LetterDetection\\LetterDetection\\LetterDetection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ngavr\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\ngavr\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\ngavr\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
